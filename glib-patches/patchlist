@@ -1,9 +1,0 @@
-glib-only.patch
-no-installed-files.patch
-foreign-automake.patch
-no-gregex.patch
-no-pkg-config.patch
-no-gettext.patch
-cross-compiling.patch
-static-only.patch
-win32-static-init.patch
